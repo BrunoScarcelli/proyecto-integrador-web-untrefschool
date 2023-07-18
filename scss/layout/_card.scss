@@ -1,0 +1,15 @@
+.container-fluid {
+    background-color:#EFF5F5;
+}
+.banner {
+   display: flex;
+    background-image: url(../assets/img/imagen-principal.jpeg);
+    height: 500px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    font-family:Belanosima;   
+
+}

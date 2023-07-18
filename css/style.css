@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Belanosima&family=Poppins:wght@300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  font-family: Belanosima;
+  font-size: 20px;
+}
+
+.container-fluid {
+  background-color: #EFF5F5;
+}
+
+.banner {
+  display: flex;
+  background-image: url(../assets/img/imagen-principal.jpeg);
+  height: 500px;
+  width: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  font-family: Belanosima;
+}
+
+.ul-noticias {
+  display: flex;
+  margin: 1rem;
+}
+
+/*# sourceMappingURL=style.css.map */

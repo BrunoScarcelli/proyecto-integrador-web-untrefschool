@@ -6,7 +6,7 @@
 }
 
 .navbar {
-  font-family: Belanosima;
+  font-family: "belanosima";
   font-size: 20px;
 }
 
@@ -24,11 +24,21 @@
   justify-content: center;
   align-items: center;
   font-family: Belanosima;
+  margin-bottom: 1%;
+}
+
+.ul-noticias {
+  font-family: "belanosima";
+}
+
+.card {
+  font-family: "belanosima";
 }
 
 .ul-noticias {
   display: flex;
   margin: 1rem;
+  font-family: "belanosima";
 }
 
 .formulario {
@@ -70,6 +80,18 @@
   height: 100px;
   margin-top: 10px;
   resize: none;
+}
+
+footer {
+  background-color: #EFF5F5;
+  font-family: "belanosima";
+}
+footer li {
+  list-style: none;
+}
+footer li a {
+  text-decoration: none;
+  color: #181823;
 }
 
 /*# sourceMappingURL=style.css.map */
